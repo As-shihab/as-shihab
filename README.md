@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BSE CSE  @ **Presidency University**
+- 🎓 Computer Engineering at @ **Presidency University**
 - 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL, Python, Prisma , C++ , Aurdunio**
 - 💼 Portfolio: [asshihab.netlify.app](https://asshihab.netlify.app)
 - 📬 Email: [study.shihab@gmail.com](mailto:study.shihab@gmail.com)
@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,angular,ts,js,mysql,mongodb,docker,linux,git,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,angular,ts,js,mysql,mongodb,docker,linux,git,vscode,tailwind,python,c++" />
 </p>
 
 ---
