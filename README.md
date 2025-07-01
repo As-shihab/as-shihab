@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  👨‍💻 CSE Student @ Presidency University | 💡 Founder of <span style="color:#ff6ec7;">Aptigen</span>
+ | 💡 Founder of <span style="color:#ff6ec7;">Aptigen</span>
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 CSE Student @ **Presidency University**
-- 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL**
+- 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL, Python**
 - 💼 Portfolio: [asshihab.netlify.app](https://asshihab.netlify.app)
 - 📬 Email: [study.shihab@gmail.com](mailto:study.shihab@gmail.com)
 - 🚀 Founder of **Aptigen** – a tech startup focused on:
@@ -39,8 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=As-Shihab&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=As-Shihab&theme=radical" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=As-Shihab&theme=tokyo-night" />
 </p>
 
 ---
