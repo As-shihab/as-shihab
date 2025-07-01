@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CSE Student @ **Presidency University**
-- 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL, Python**
+- 🎓 BSE CSE  @ **Presidency University**
+- 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL, Python, Prisma , C++ , Aurdunio**
 - 💼 Portfolio: [asshihab.netlify.app](https://asshihab.netlify.app)
 - 📬 Email: [study.shihab@gmail.com](mailto:study.shihab@gmail.com)
 - 🚀 Founder of **Aptigen** – a tech startup focused on:
