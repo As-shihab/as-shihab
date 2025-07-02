@@ -1,6 +1,3 @@
-<h1 align="center">
-  Hey 👋, I'm <span style="color:#00f0ff;">As Shihab</span>
-</h1>
 
 <h3 align="center">
  | 💡 Founder of <span style="color:#ff6ec7;">Aptigen</span>
@@ -18,15 +15,6 @@
 - 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL, Python, Prisma , C++ , Aurdunio**
 - 💼 Portfolio: [asshihab.netlify.app](https://asshihab.netlify.app)
 - 📬 Email: [study.shihab@gmail.com](mailto:study.shihab@gmail.com)
-- 🚀 Founder of **Aptigen** – a tech startup focused on:
-  - 🤖 AI and Automation Solutions
-  - 🧠 LLM (Large Language Model) Integrations
-  - 🛰️ MCP (Model Control Protocol) Servers
-  - 🔐 Secure, Scalable AI APIs
-  - 📡 Real-time Edge Intelligence Systems
-  - 🧬 Data-driven Smart Industry Platforms
-
----
 
 ### 🛠️ Tech Stack
 
