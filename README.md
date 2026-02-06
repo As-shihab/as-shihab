@@ -1,29 +1,31 @@
 # Shihab
 
-Full Stack Engineer specializing in ERP, Building AI Agenets, Odata Microservices
+Full Stack Engineer specializing in ERP, AI Agents, and OData Microservices.
+*Focusing on building scalable intelligence and big data solutions.*
 
 ---
 
-### About
+### 👨‍💻 About
 - **Education:** CSE at Presidency University
+- **Current Workplace:** Hybritech Innovation LTD || SCT BANGLA
 - **Focus:** AI-driven ERP & Industrial Automation
-- **WorkPlace:** Hybritech Innovation LTD || SCT BANGLA
 
-### Tech Stack
+### 🛠️ Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, C++
-- **Frameworks:** Laravel, Node.js, **Nest.js**, React, Angular, **Eelectron**
-- **Database:** MySQL, MongoDB, Prisma,Sqlite
+- **Frameworks:** Laravel, Node.js, Nest.js, React, Angular, Electron
+- **Database:** MySQL, MongoDB, Prisma, SQLite
 - **AI & ML:** Ollama, SQLCoder-7b, LLM Integration
-- **Tools:** Docker, Linux, Git, Arduino,pipline
+- **Tools:** Docker, Linux, Git, Arduino, CI/CD Pipelines
 
-### Project Overview: AI & Data
+### 🚀 Project Overview: AI & Data
 - **Natural Language to SQL:** Integrating **SQLCoder-7b** via **Ollama** to enable seamless database interactions through natural language.
 - **Intelligent ERP:** Designing automation layers that leverage local LLMs for data analysis and predictive workflow management.
+- **AI Microservices:** Developing dynamic microservices designed to analyze business data using the latest AI models.
 
-### Contact & Links
+### 💬 Contact & Links
 - **Portfolio:** [aptigen.net/shihab](https://aptigen.net/shihab)
 - **LinkedIn:** [linkedin.com/in/as-shihab](https://www.linkedin.com/in/as-shihab)
 - **Email:** study.shihab@gmail.com
 
 ---
-*Build. Learn. Disrupt. Innovate.* **Powered by Aptigen**
+*Building dynamic microservices that empower business analysis through cutting-edge AI.* **Powered by Aptigen**
