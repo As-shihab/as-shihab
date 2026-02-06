@@ -1,6 +1,6 @@
 # Shihab
 
-Full Stack Engineer specializing in ERP, AI, Odata Microservices
+Full Stack Engineer specializing in ERP, Building AI Agenets, Odata Microservices
 
 ---
 
