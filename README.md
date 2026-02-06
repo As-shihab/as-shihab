@@ -1,52 +1,25 @@
+# Shihab | Founder of Aptigen
 
-<h3 align="center">
- | 💡 Founder of <span style="color:#ff6ec7;">Aptigen</span>
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Full+Stack+Engineer+%F0%9F%92%BB;ERP+%7C+AI+%7C+Automation+Expert;Founder+of+Aptigen+-+Big+Data+AI+Co.;CSE+at+Presidency+University;Build.+Learn.+Disrupt.+Innovate." alt="Typing SVG" />
-</p>
+Full Stack Engineer specializing in ERP, AI, and Automation. 
+Focusing on building scalable intelligence and big data solutions.
 
 ---
 
-### 👨‍💻 About Me
+### About
+- **Education:** CSE at Presidency University
+- **Focus:** AI-driven ERP & Industrial Automation
+- **Mission:** Building the intelligence of tomorrow through code.
 
-- 🎓 Computer Engineering at @ **Presidency University**
-- 🛠️ Tech Stack: **Laravel, Node.js, React, Angular, MongoDB, MySQL, Python, Prisma , C++ , Aurdunio**
-- 💼 Portfolio: [asshihab.netlify.app](https://asshihab.netlify.app)
-- 📬 Email: [study.shihab@gmail.com](mailto:study.shihab@gmail.com)
+### Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, C++
+- **Frameworks:** Laravel, Node.js, React, Angular
+- **Database:** MySQL, MongoDB, Prisma
+- **Tools:** Docker, Linux, Git, Arduino
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,angular,ts,js,mysql,mongodb,docker,linux,git,vscode,tailwind,python,c++" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=As-Shihab&theme=tokyo-night" />
-</p>
+### Contact & Links
+- **Portfolio:** [asshihab.netlify.app](https://asshihab.netlify.app)
+- **LinkedIn:** [linkedin.com/in/as-shihab](https://www.linkedin.com/in/as-shihab)
+- **Email:** study.shihab@gmail.com
 
 ---
-
-### 💬 Let's Connect
-
-<p align="center">
-  <a href="mailto:study.shihab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/as-shihab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://asshihab.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Final Thought
-
-> _"Aptigen isn't just a company — it's a vision to power the future through AI, data, and intelligent automation."_  
-
-> _"The code we write today builds the intelligence of tomorrow."_
-
----
-
+*Build. Learn. Disrupt. Innovate.*
