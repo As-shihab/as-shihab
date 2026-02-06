@@ -7,7 +7,7 @@ Full Stack Engineer specializing in ERP, AI, Odata Microservices
 ### About
 - **Education:** CSE at Presidency University
 - **Focus:** AI-driven ERP & Industrial Automation
-- **Mission:** Building the intelligence of tomorrow through code.
+- **WorkPlace:** Hybritech Innovation LTD || SCT BANGLA
 
 ### Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, C++
