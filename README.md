@@ -23,10 +23,17 @@ Full Stack Engineer specializing in ERP, AI Agents, and OData Microservices.
 - **AI Microservices:** Developing dynamic microservices designed to analyze business data using the latest AI models.
 - **Aptigen:** Developing an auto sync engine ERP suite that provides a comprehensive, end-to-end solution for enterprise business management.
 
-### 💬 Contact & Links
+### Request for download and feedback 
+
+- **Aptigen ERP:** [aptigen.net/erp](https://www.aptigen.net/erp)
+
+
+### Contact & Links
 - **Portfolio:** [aptigen.net/shihab](https://aptigen.net/shihab)
 - **LinkedIn:** [linkedin.com/in/as-shihab](https://www.linkedin.com/in/as-shihab)
 - **Email:** study.shihab@gmail.com
+
+
 
 ---
 *Building dynamic microservices that empower business analysis throuh latest ollama ai models
