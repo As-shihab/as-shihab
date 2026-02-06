@@ -1,7 +1,6 @@
 # Shihab
 
-Full Stack Engineer specializing in ERP, AI, and Automation. 
-Focusing on building scalable intelligence and big data solutions.
+Full Stack Engineer specializing in ERP, AI, Odata Microservices
 
 ---
 
@@ -12,7 +11,7 @@ Focusing on building scalable intelligence and big data solutions.
 
 ### Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, C++
-- **Frameworks:** Laravel, Node.js,**Nest.js**, React, Angular, **Eelectron**
+- **Frameworks:** Laravel, Node.js, **Nest.js**, React, Angular, **Eelectron**
 - **Database:** MySQL, MongoDB, Prisma,Sqlite
 - **AI & ML:** Ollama, SQLCoder-7b, LLM Integration
 - **Tools:** Docker, Linux, Git, Arduino,pipline
