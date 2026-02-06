@@ -12,10 +12,10 @@ Focusing on building scalable intelligence and big data solutions.
 
 ### Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, C++
-- **Frameworks:** Laravel, Node.js, React, Angular
-- **Database:** MySQL, MongoDB, Prisma
+- **Frameworks:** Laravel, Node.js, React, Angular, **Eelectron**
+- **Database:** MySQL, MongoDB, Prisma,Sqlite
 - **AI & ML:** Ollama, SQLCoder-7b, LLM Integration
-- **Tools:** Docker, Linux, Git, Arduino
+- **Tools:** Docker, Linux, Git, Arduino,pipline
 
 ### Project Overview: AI & Data
 - **Natural Language to SQL:** Integrating **SQLCoder-7b** via **Ollama** to enable seamless database interactions through natural language.
