@@ -29,7 +29,7 @@ Full Stack Engineer specializing in ERP, AI Agents, and OData Microservices.
 
 
 ### Contact & Links
-- **Portfolio:** [aptigen.net/shihab](https://aptigen.net/shihab)
+- **Portfolio:** [shihab.aptigen.net](https://shihab.aptigen.net)
 - **LinkedIn:** [linkedin.com/in/as-shihab](https://www.linkedin.com/in/as-shihab)
 - **Email:** study.shihab@gmail.com
 
