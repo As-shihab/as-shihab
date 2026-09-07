@@ -1,39 +1,34 @@
 # Shihab
+**Full Stack & SAP Native ERP Business Developer**
+*SAP Enterprise Architecture | AI Agents & RAG | Business Software Engineering*
 
-Full Stack Engineer specializing in ERP, AI Agents, and OData Microservices.
+---
 
+### Executive Profile
+Full Stack & Enterprise Systems Developer specializing in native ERP architectures, autonomous AI workflows, and production LLM orchestration. Expert in bridging complex commercial business logic with scalable back-end microservices, local model integration, and enterprise sync engines.
+
+### Aptigen ERP Core Impact
+* **Aptigen Suite:** Enterprise ERP software ecosystem built on real-time auto-sync technology.
+* **Scale:** Operating in **3 countries** with **1,200+ active users**.
+* **Role:** COO & Core Developer leading system architecture, multi-tenant databases, and enterprise product strategy.
+
+### Tech Stack Highlights
+* **SAP & Enterprise Systems:** SAP Native ERP Development, Business Process Engineering, OData/REST APIs, Enterprise Microservices
+* **AI & RAG:** LangChain, LangGraph, Langfuse, Qdrant, Ollama, SQLCoder-7b
+* **Core Web & Services:** Node.js, Nest.js, Laravel, React, Angular, Electron
+* **Databases & DevOps:** MySQL, MongoDB, Prisma, Docker, Linux, CI/CD
 
 ---
 
-###  About
-- **Education:** CSE at Presidency University
-- **Current Workplace:** Hybritech Innovation LTD || SCT BANGLA
-- **Focus:** AI-driven ERP & Industrial Automation
-
-###  Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, C++
-- **Frameworks:** Laravel, Node.js, Nest.js, React, Angular, Electron
-- **Database:** MySQL, MongoDB, Prisma, SQLite
-- **AI & ML:** Ollama, SQLCoder-7b, LLM Integration
-- **Tools:** Docker, Linux, Git, Arduino, CI/CD Pipelines
-
-###  Project Overview: AI & Data
-- **Natural Language to SQL:** Integrating **SQLCoder-7b** via **Ollama** to enable seamless database interactions through natural language.
-- **Intelligent ERP:** Designing automation layers that leverage local LLMs for data analysis and predictive workflow management.
-- **AI Microservices:** Developing dynamic microservices designed to analyze business data using the latest AI models.
-- **Aptigen:** Developing an auto sync engine ERP suite that provides a comprehensive, end-to-end solution for enterprise business management.
-
-### Request for download and feedback 
-
-- **Aptigen ERP:** [aptigen.net/erp](https://www.aptigen.net/erp)
-
-
-### Contact & Links
-- **Portfolio:** [shihab.aptigen.net](https://shihab.aptigen.net)
-- **LinkedIn:** [linkedin.com/in/as-shihab](https://www.linkedin.com/in/as-shihab)
-- **Email:** study.shihab@gmail.com
-
-
+### Key Capabilities
+* **SAP Native Business Software Development:** Translating enterprise-level commercial operations (Finance, Supply Chain, Multi-Entity Payroll) into high-performance, fault-tolerant native ERP code.
+* **Multi-Agent Systems:** Deterministic reasoning workflows via **LangGraph**.
+* **Observability:** Trace logging, prompt management, and automated evaluation via **Langfuse**.
+* **Vector Search & NL2SQL:** High-throughput retrieval via **Qdrant** alongside natural language database query execution using **SQLCoder-7b**.
 
 ---
-*Building dynamic microservices that empower business analysis throuh latest ollama ai models
+
+### Experience & Credentials
+* **Workplace:** Hybritech Innovation LTD || SCT BANGLA
+* **Education:** B.Sc. in Computer Science & Engineering, Presidency University
+* **Links:** [Product Portal](https://www.aptigen.net/erp) | [Portfolio](https://shihab.aptigen.net) | [LinkedIn](https://www.linkedin.com/in/as-shihab) | [Email](mailto:study.shihab@gmail.com)
