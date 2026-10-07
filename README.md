@@ -43,15 +43,6 @@ Full Stack Software Engineer specializing in enterprise resource planning (ERP) 
 
 ---
 
-## Development Metrics
 
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=as-shihab&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Statistics" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-shihab&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="160" />
-
-</div>
-
----
 
 `APTIGEN Enterprise Engineering`
